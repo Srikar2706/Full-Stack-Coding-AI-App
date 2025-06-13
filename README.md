@@ -2,7 +2,6 @@
 
 This is a full-stack web application that uses **OpenAI's GPT models** to generate **multiple-choice coding challenges** on demand. Built with **FastAPI** (Python) for the backend and **React** (JavaScript) for the frontend, it includes secure authentication via **Clerk** and a **history tab** where users can view all previously generated challenges.
 
-Perfect for developers, students, or educators who want endless, dynamic coding practice — powered by AI.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-FastAPI-green.svg" />
@@ -37,6 +36,17 @@ Perfect for developers, students, or educators who want endless, dynamic coding 
 ---
 
 
-## 🗂️ Project Structure
+
+## Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/ai-coding-challenges.git
+cd ai-coding-challenges
+```
+
+### 2. Backend Setup
+
 
 
