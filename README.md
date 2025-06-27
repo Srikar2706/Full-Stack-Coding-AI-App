@@ -30,7 +30,7 @@ This is a full-stack web application that uses **OpenAI's GPT models** to genera
 | Frontend     | React, Vite, JavaScript |
 | Backend      | FastAPI, Python         |
 | Authentication | Clerk                  |
-| AI           | OpenAI GPT (via API)    |
+| AI           | OpenAI GPT    |
 | Database     | SQLite    |
 
 ---
@@ -46,7 +46,17 @@ git clone https://github.com/your-username/ai-coding-challenges.git
 cd ai-coding-challenges
 ```
 
-### 2. Backend Setup
+### 2. Run Frontend
+```bash
+cd frontend
+npm start
+```
+
+
+### 3. Run Backend
+```bash
+cd backend
+```
 
 
 
