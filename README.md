@@ -42,7 +42,7 @@ This is a full-stack web application that uses **OpenAI's GPT models** to genera
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-coding-challenges.git
+git clone https://github.com/Srikar2706/Full-Stack-Coding-AI-App.git
 cd ai-coding-challenges
 ```
 
