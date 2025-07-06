@@ -56,6 +56,7 @@ npm start
 ### 3. Run Backend
 ```bash
 cd backend
+uvicorn main:app --reload
 ```
 
 
